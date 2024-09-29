@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://sonic:mongodb_pw@cluster0.t1lnle2.mongodb.net/survey_app?retryWrites=true&w=majority&appName=Cluster0"
+}
+  
